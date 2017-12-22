@@ -1,0 +1,13 @@
+{
+  "id": "bitbucket",
+  "name": "Bitbucket",
+  "version": "1.0.0",
+  "description": "Bitbucket",
+  "main": "index.js",
+  "author": "17number",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://bitbucket.org/",
+    "hasTeamID": false
+  }
+}
